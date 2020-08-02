@@ -1,0 +1,13 @@
+.App{color:red;}
+.App-nav{
+    outline: blueviolet;
+    background-color: darkgrey;
+    padding: 10px;
+    border: 1px solid violet;
+    display: inline-block;
+    cursor: pointer;
+    float: right;
+}
+.App-nav:hover{
+    background-color: aliceblue;
+}
